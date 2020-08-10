@@ -14,10 +14,4 @@ export class HighlightOperation implements Operation {
         console.log('Highlight Heading');
     }
 
-
-
-
-
-
-
 }
